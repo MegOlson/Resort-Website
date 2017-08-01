@@ -15,3 +15,8 @@ p {
 ul {
   font-size: 18px;
 }
+
+body {
+  background-size: fill;
+  background-repeat: no-repeat;
+}
